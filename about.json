@@ -1,0 +1,20 @@
+{
+"name": "Moodle Mobile",
+"license": {
+    "name": "Apache 2.0",
+    "link": "http://www.apache.org/licenses/LICENSE-2.0"
+},
+"credits": [
+{
+    "fullname": "Juan Leyva",
+    "contribution": "Main developer",
+    "company": "CV&A Consulting"
+},
+
+{
+    "name": "Underscore",
+    "version": "1.5.2",
+    "license": "MIT"
+}
+]
+}
